@@ -58,8 +58,7 @@
               "RelativeToolTip": "AppBindingCommands\\AppShell.xaml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T23:53:59.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T23:53:59.804Z"
             },
             {
               "$type": "Document",
@@ -82,7 +81,7 @@
               "RelativeDocumentMoniker": "AppBindingCommands\\Views\\UsuarioView.xaml",
               "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml",
               "RelativeToolTip": "AppBindingCommands\\Views\\UsuarioView.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-05T23:47:58.735Z",
               "EditorCaption": ""
@@ -95,7 +94,7 @@
               "RelativeDocumentMoniker": "AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
               "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
               "RelativeToolTip": "AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAMwFoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAIAywFoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T23:25:06.44Z",
               "EditorCaption": ""
@@ -103,7 +102,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AppBindingCommands",
+              "Title": "AppBindingCommands.csproj",
               "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
               "RelativeDocumentMoniker": "AppBindingCommands\\AppBindingCommands.csproj",
               "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
@@ -121,7 +120,7 @@
               "RelativeDocumentMoniker": "AppBindingCommands\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml.cs",
               "RelativeToolTip": "AppBindingCommands\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T23:13:38.743Z",
               "EditorCaption": ""

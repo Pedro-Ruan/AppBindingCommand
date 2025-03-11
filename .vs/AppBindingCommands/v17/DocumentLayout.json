@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\views\\usuarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\views\\usuarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\views\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\views\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\views\\usuarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\views\\usuarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\views\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\views\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\appbindingcommands.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\appbindingcommands.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\appbindingcommands.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\source\\repos\\appbindingcommands\\appbindingcommands\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|c:\\users\\pedro\\onedrive\\desktop\\appbindingcommands\\appbindingcommands\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7F2CCD0B-2839-482E-8492-3590F0A11CA9}|AppBindingCommands\\AppBindingCommands.csproj|solutionrelative:appbindingcommands\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppBindingCommands\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\AppShell.xaml",
               "RelativeToolTip": "AppBindingCommands\\AppShell.xaml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -62,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml.cs",
               "RelativeDocumentMoniker": "AppBindingCommands\\Views\\UsuarioView.xaml.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml.cs",
               "RelativeToolTip": "AppBindingCommands\\Views\\UsuarioView.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,26 +75,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuarioView.xaml",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml",
               "RelativeDocumentMoniker": "AppBindingCommands\\Views\\UsuarioView.xaml",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\Views\\UsuarioView.xaml",
               "RelativeToolTip": "AppBindingCommands\\Views\\UsuarioView.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBZwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-05T23:47:58.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UsuarioViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
               "RelativeDocumentMoniker": "AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
               "RelativeToolTip": "AppBindingCommands\\ViewModel\\UsuarioViewModel.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAIAywFoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAIAwwFoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T23:25:06.44Z",
               "EditorCaption": ""
@@ -103,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AppBindingCommands.csproj",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
               "RelativeDocumentMoniker": "AppBindingCommands\\AppBindingCommands.csproj",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
               "RelativeToolTip": "AppBindingCommands\\AppBindingCommands.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -116,22 +116,22 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "AppBindingCommands\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml.cs",
               "RelativeToolTip": "AppBindingCommands\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T23:13:38.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\App.xaml.cs",
               "RelativeDocumentMoniker": "AppBindingCommands\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\App.xaml.cs",
               "RelativeToolTip": "AppBindingCommands\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +142,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml",
               "RelativeDocumentMoniker": "AppBindingCommands\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\MainPage.xaml",
               "RelativeToolTip": "AppBindingCommands\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -155,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\App.xaml",
               "RelativeDocumentMoniker": "AppBindingCommands\\App.xaml",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\AppBindingCommands\\AppBindingCommands\\App.xaml",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\AppBindingCommands\\AppBindingCommands\\App.xaml",
               "RelativeToolTip": "AppBindingCommands\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",

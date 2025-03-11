@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppBindingCommands")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+82bf2209e107f8ade730f9ee609e9900bb594030")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppBindingCommands")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppBindingCommands")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
